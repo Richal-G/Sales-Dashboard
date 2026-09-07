@@ -44,3 +44,7 @@ Areas where profitability can be improved
 🚀 Skills Demonstrated
 
 Data Cleaning • Data Transformation • DAX • Power BI • Data Visualization • Business Intelligence • KPI Analysis • Interactive Dashboard Design
+
+Screenshots / Demo 
+
+
